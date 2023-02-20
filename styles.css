@@ -1,8 +1,5 @@
 body {
   background-color: #537fe7;
-  font-family: "Roboto", sans-serif;
-  margin: 0;
-  padding: 0;
 }
 
 .container {
@@ -13,12 +10,21 @@ body {
 }
 
 .login-container {
-  display: flex;
-  justify-content: center;
+  border-radius: 40px;
   background-color: #c0eef2;
-  height: 45%;
-  width: 20%;
+  height: 55%;
+  width: 30%;
 }
 
 .login-title {
+  margin-left: 35%;
+}
+
+.Login-buttom {
+  margin-left: 30%;
+}
+
+.login-form {
+  margin-top: 15%;
+  margin-left: 15%;
 }
